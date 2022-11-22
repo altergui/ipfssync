@@ -14,7 +14,7 @@ import (
 
 	"github.com/libp2p/go-libp2p-core/peer"
 	"github.com/multiformats/go-multiaddr"
-	"go.vocdoni.io/dvote/ipfssync/subpub"
+	"github.com/vocdoni/ipfssync/subpub"
 	statedb "go.vocdoni.io/dvote/statedblegacy"
 	"go.vocdoni.io/proto/build/go/models"
 	"google.golang.org/protobuf/proto"

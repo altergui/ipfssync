@@ -9,7 +9,7 @@ import (
 
 	"go.vocdoni.io/dvote/crypto/ethereum"
 	"go.vocdoni.io/dvote/data"
-	"go.vocdoni.io/dvote/ipfssync"
+	"github.com/vocdoni/ipfssync"
 	"go.vocdoni.io/dvote/log"
 )
 
